@@ -15,7 +15,7 @@
 		"ignore": [],
 		"attributePosition": "auto",
 		"indentStyle": "tab",
-		"indentWidth": 4,
+		"indentWidth": 3,
 		"lineWidth": 100,
 		"lineEnding": "crlf"
 	},
